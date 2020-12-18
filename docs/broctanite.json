@@ -1,0 +1,6 @@
+{
+    "name": "Broctanite",
+    "description": "A limited-edition YTX mineral card asset",
+    "image": "https://ytxfinance.github.io/ytx-server/imgs/broctanite.png",
+    "attributes": ["water"]
+}
